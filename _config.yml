@@ -1,7 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/portfolio-kami/" # the subpath of your site, e.g. /blog/ (optional)
 url: "https://smirza89.github.io" # the base hostname & protocol for your site
-encoding:utf-8
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
